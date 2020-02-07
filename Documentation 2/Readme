@@ -1,1 +1,17 @@
-
+This documentation consists of the following topics ;
+Clean data with function
+Rearranging and reshaping data
+Stacking & unstacking
+Melting
+swap 
+sort 
+set_index
+pivot table
+Groupby
+Computing multiple aggregates of multiple columns
+Aggregating on index levels/fields
+Grouping on a function of the index
+Detecting outliers with Z-Scores
+Filling missing data (imputation) by group
+Grouping and filtering with .apply()
+Grouping and filtering with .filter()
