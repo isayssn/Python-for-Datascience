@@ -1,1 +1,11 @@
-
+This documentation consists of the following topics ;
+Grouping and filtering with .apply()
+Grouping and filtering with .filter()
+Using .value_counts() for ranking
+Using .pivot_table() to count medals by typea
+Applying .drop_duplicates()
+Finding possible errors with .groupby()
+Locating suspicious data
+Using .nunique() to rank by distinct sports
+Counting USA vs. USSR Cold War Olympic Sports
+Counting USA vs. USSR Cold War Olympic Medals
