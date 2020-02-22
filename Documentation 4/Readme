@@ -1,1 +1,23 @@
-
+This documentation consists of the following topics ;
+Line Plot
+Scatter plot
+Histogram
+Box plot
+Bar chart
+Pie chart
+numpy;
+arange
+reshape
+linspace
+resize
+ones
+zeros
+eye
+diag
+array
+repeat
+random
+vstack
+hstack
+dot
+astype
